@@ -1,0 +1,31 @@
+/* Need to work on the display of the box instead of using a whole page */
+body {
+  background-color: #f0f0f0;
+}
+
+.color-dot {
+  -moz-border-radius: 99px;
+  -webkit-border-radius: 99px;
+  border-radius: 99px;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
+.color-dot.critical {
+  background-color: #e74c3c;
+}
+.color-dot.major {
+  background-color: #e67e22;
+}
+.color-dot.minor {
+  background-color: #f1c40f;
+}
+.color-dot.none {
+  background-color: #2ecc71;
+}
+
+.ci-status {
+  color: black;
+  font-size: 16px;
+}
