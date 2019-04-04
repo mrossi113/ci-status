@@ -16,5 +16,5 @@ This color is for a <span style="color:#f1c40f">Minor</span> issue.
 This color is for a <span style="color:#2ecc71">None</span> issue.
 
 
- <iframe width="25px" height="110px" src="https://mrossi113.github.io/ci-status/"></iframe>
+ [https://mrossi113.github.io/ci-status/](https://mrossi113.github.io/ci-status/)
 
